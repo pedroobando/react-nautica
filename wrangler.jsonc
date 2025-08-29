@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cl-nautica",
+	"name": "nautica",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-08-28",
 	"assets": {
